@@ -10,6 +10,7 @@
 
     <p>
       I am an incoming Ph.D. student in Curriculum and Instruction at the University of Wisconsin–Madison, advised by <a href="https://berland.org/">Prof. Matthew Berland</a>. As a learner, designer, and educator, I am committed to designing meaningful and engaging learning experiences that support diverse learners across contexts.
+      
       You can find my CV here: <a href="Annie_Zhou_CV.pdf">CV</a>.
     </p>
 
