@@ -67,9 +67,16 @@
 </div>
 
 <div style="display: flex; align-items: flex-start; gap: 24px; margin-bottom: 28px;">
-  <a href="https://aera26.ipostersessions.com/Default.aspx?s=E2-A5-29-9B-90-FF-4C-D6-31-83-98-21-81-B9-16-EA">
-    <img src="Positioning.png" alt="Student self-positioning presentation thumbnail" style="width: 100px; height: 100px; object-fit: cover; border-radius: 6px; display: block;">
+  <a href="https://aera26.ipostersessions.com/Default.aspx?s=E2-A5-29-9B-90-FF-4C-D6-31-83-98-21-81-B9-16-EA" style="flex-shrink: 0;">
+    <div style="width: 100px; height: 100px; overflow: hidden; border-radius: 6px;">
+      <img 
+        src="Positioning.png" 
+        alt="Student self-positioning presentation thumbnail" 
+        style="width: 100%; height: 100%; object-fit: cover; display: block;"
+      >
+    </div>
   </a>
+
   <div>
     <p>
       <strong>Zhou, A.</strong> (2026, April). 
