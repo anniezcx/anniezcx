@@ -49,7 +49,8 @@
 <h2>Conference Presentations</h2>
 
 <p>
-<li><strong>Zhou, A.</strong> (2026, April). Student Self-Positioning and the Development of Mathematical Competencies. Roundtable session accepted for presentation at the Annual Meeting of the American Educational Research Association (AERA).</li>
-<li>Quintana, R. M. & <strong>Zhou, A.</strong> (2026, April). Using affordance analysis to strategize the integration of AI-generated instructor avatars within MOOCs. Poster session accepted for presentation at the Annual Meeting of the American Educational Research Association (AERA).</li>
+  <li><strong>Zhou, A.</strong> (2026, April). A community-engaged curriculum design model for culturally responsive tech consulting. Short paper session accepted for presentation at the 20th International Conference of the Learning Sciences (ICLS 2026).</li>
+  <li><strong>Zhou, A.</strong> (2026, April). Student Self-Positioning and the Development of Mathematical Competencies. Roundtable session accepted for presentation at the Annual Meeting of the American Educational Research Association (AERA).</li>
+  <li>Quintana, R. M. & <strong>Zhou, A.</strong> (2026, April). Using affordance analysis to strategize the integration of AI-generated instructor avatars within MOOCs. Poster session accepted for presentation at the Annual Meeting of the American Educational Research Association (AERA).</li>
 
 </p>
