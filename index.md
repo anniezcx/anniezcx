@@ -19,6 +19,7 @@
 
 </div>
 
+
 <h2>Research Interests</h2>
 
 <ul>
@@ -26,6 +27,7 @@
   <li>Culturally responsive mathematics education</li>
   <li>Learning sciences and educational technology</li>
 </ul>
+
 
 <h2>Selected Publications</h2>
 
@@ -45,6 +47,7 @@
     <em>Using affordance analysis to strategize the integration of AI-generated instructor avatars within MOOCs.</em> Poster session accepted for presentation at the Annual Meeting of the American Educational Research Association (AERA).
   </li>
 </ul>
+
 
 <h2>Selected Presentations</h2>
 
