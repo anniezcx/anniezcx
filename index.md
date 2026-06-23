@@ -1,8 +1,22 @@
-# Annie (Chenxi) Zhou
+<div style="display: flex; align-items: flex-start; gap: 30px;">
 
-📧 Email: annie.zhou@wisc.edu
+  <div style="flex: 1;">
 
-🔗 [LinkedIn]([url](https://www.linkedin.com/in/annie-zhou-aabb09168/))
+    <h1>Annie (Chenxi) Zhou</h1>
+
+    <p>📧 Email: annie.zhou@wisc.edu</p>
+
+    <p>🔗 <a href="https://www.linkedin.com/in/annie-zhou-aabb09168/">LinkedIn</a></p>
+
+    <p>
+      I am an incoming PhD student in Curriculum and Instruction at the University of Wisconsin–Madison under the supervision of Prof. Matthew Berland.
+    </p>
+
+  </div>
+
+  <img src="./headshot.jpeg" alt="Profile photo" width="180" style="border-radius: 8px;">
+
+</div>
 
 I am an incoming Ph.D. student in Curriculum and Instruction at the University of Wisconsin–Madison, advised by Prof. Matthew Berland. As a learner, designer, and educator, I am committed to designing meaningful and engaging learning experiences that support diverse learners across contexts.
 
